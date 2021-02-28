@@ -2,7 +2,7 @@
 Repository of Data science project. Created for the needs of DS Bootcamp.
 
 
-# Project background
+# Autodetection of mining induced earthquakes - Project background
 Automatic seismogram picking is an issue known from late 70s. During the years many different approaches to the problem have been proposed. First studies in this field given by Allen (1978) or Baer and Kradolfer (1987) was based on the comparison between the short-(STA) and the long-term average (LTA) of the signal. Another approaches to find seismic waves on digital records are using autoregressive methods (AR) (Leonard and Kennett, 1999; Leonard, 2000), high order statistics (HOS) (Küperkoch et al., 2010), Continuous Wavelet Transform (CWT) (Zhang et al., 2003) or algorithms that use neural networks (Wang and Teng, 1995).
 
 Auto-picking algoritms are already successfully implemented in early warning systems such as ShakeAlert® given by USGS or in local systems used for seismic hazard monitoring in the vicinity of vulcanos or regions, like Chile or Japan. Furthermore auto-picking tools can be also used to process of large seismic waveforms datasets. These methods enables e.g. basic analysis like localization of seismic events or earthquake energy estimation.
